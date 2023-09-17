@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Naslu kk</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
+- 🌱 I’m currently learning **React js**
+
+- 👨‍💻 All of my projects are available at [https://naslukk.github.io/My-Personal/](https://naslukk.github.io/My-Personal/)
+
+- 📫 How to reach me **naslukk@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naslukk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naslukk" height="30" width="40" /></a>
